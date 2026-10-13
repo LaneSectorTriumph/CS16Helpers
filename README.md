@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=56&pause=450&color=00CED1&center=true&vCenter=true&width=1200&height=140&lines=CS+1.6+HACK+2026;AIMBOT+%7C+WALLHACK+%7C+BHOP;DOMINATE+THE+GOLDEN+AGE" alt="CS 1.6 Hack 2026" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c7480faf-891b-4812-bd63-9c459131dd02" />
 
 <br/>
 
